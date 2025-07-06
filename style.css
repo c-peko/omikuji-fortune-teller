@@ -1,5 +1,4 @@
 body {
-  display: flex;
   justify-content: center;   /* center horizontally */
   align-items: center;       /* center vertically */
   height: 100vh;             /* full viewport height */
@@ -8,10 +7,6 @@ body {
   text-align: center;
   background-image: url("japanese-lantern-5568727_1280.jpg");
   padding-top: 50px;
-}
-
-.main {
-  text-align: center;        /* center the content inside */
 }
 
 h1 {
