@@ -10,6 +10,10 @@ body {
   padding-top: 50px;
 }
 
+.main {
+  text-align: center;        /* center the content inside */
+}
+
 h1 {
   color: #ffffff;
   font-size: 3em;
