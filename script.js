@@ -5,7 +5,7 @@ const fortunes = [
   "吉 - Some luck!</br>Don't hesitate to get help from others;)",
   "末吉 - Slight luck.</br>Though it may take time, your dreams will come true - Patience is the key.",
   "凶 - Bad luck.</br>Always have a plan B!",
-  "大凶 - Very bad luck!"
+  "大凶 - Very bad luck!</br>Haste makes waste - revise your plan well."
 ];
 
 document.getElementById("drawBtn").addEventListener("click", () => {
