@@ -1,4 +1,9 @@
 body {
+  display: flex;
+  justify-content: center;   /* center horizontally */
+  align-items: center;       /* center vertically */
+  height: 100vh;             /* full viewport height */
+  margin: 0;
   font-family: 'Arial', sans-serif;
   text-align: center;
   background-image: url("japanese-lantern-5568727_1280.jpg");
