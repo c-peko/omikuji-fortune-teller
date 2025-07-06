@@ -1,0 +1,35 @@
+body {
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  background: #f5f5f5;
+  padding-top: 50px;
+}
+
+h1 {
+  color: #b22222;
+  font-size: 3em;
+}
+
+#fortune {
+  margin: 30px auto;
+  padding: 20px;
+  border: 3px solid #b22222;
+  border-radius: 10px;
+  width: 300px;
+  font-size: 1.5em;
+  background-color: #fff0f5;
+}
+
+button {
+  font-size: 1.2em;
+  padding: 10px 20px;
+  background-color: #b22222;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #a00000;
+}
